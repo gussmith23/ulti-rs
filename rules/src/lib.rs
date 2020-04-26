@@ -1,3 +1,5 @@
+pub mod cards;
+
 #[cfg(test)]
 mod tests {
     #[test]
